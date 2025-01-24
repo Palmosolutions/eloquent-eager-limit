@@ -1,5 +1,5 @@
 {
-    "name": "staudenmeir/eloquent-eager-limit",
+    "name": "palmosolutions/eloquent-eager-limit",
     "description": "Laravel Eloquent eager loading with limit",
     "license": "MIT",
     "authors": [
